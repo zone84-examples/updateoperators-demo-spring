@@ -1,0 +1,8 @@
+spring.data.mongodb.uri: "mongodb://localhost:27017/mydb"
+
+server:
+  port: 8000
+
+rewards:
+  minimum-amount-raw: 100.0
+  minimum-purchase-days: 3
